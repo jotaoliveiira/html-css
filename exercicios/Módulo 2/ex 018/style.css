@@ -1,0 +1,18 @@
+@charset "UTF8";
+
+
+        @font-face {
+            font-family:'Jota' ;
+            src: url(Olondona.otf) format('opentype'), url('OldLondon.ttf') format('truetype');
+        }
+            
+        body {
+            font-family: 'Jota';
+            font-weight: bold;
+            
+        }
+        h1 {
+            font-family: "Jota";
+            font-size: 4em;
+        }
+   
